@@ -1,0 +1,3 @@
+Pris: 260
+Resterende penge: 40
+Antal billetter købt: 2
